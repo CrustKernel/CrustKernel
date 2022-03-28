@@ -16,7 +16,7 @@ William Gibson
   <img align="center" alt="Crust-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Crust-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Crust-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Crust-pic" height="150" style="border-radius:50px;" src="https://blogger.googleusercontent.com/img/a/AVvXsEjJF_J5DuT9yXe80bhKPdjnBnXZXaQ_LDVkFtnmihQKVl_SDHNm_6EgXcIjkqsOQcpjt0LkR2G63E7qQqVyZJ4mdvodiHlDqrcpxvol9bduUltHM_2-z7BU5ozd7jmrT6dBEgj_pA-pgoaScPeM7OB9Rj9tz1eIsBCpvfTMyrYsLy2RYRteUFqfxXhZ=s16000?width=676&height=676">
+  <img align="right" alt="Crust-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/D1hsntT.png?width=676&height=676">
 </div>
   
   ##
