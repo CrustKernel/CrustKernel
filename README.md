@@ -5,8 +5,8 @@ William Gibson
     
 <div align="center">
   <a href="https://github.com/CrustKernel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrustKernel&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrustKernel&theme=synthwave&show_icons=true)](https://github.com/CrustKernel/github-readme-stats"/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api?username=CrustKernel&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/><br>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrustKernel&theme=synthwave&show_icons=true)](https://github.com/CrustKernel/github-readme-stats"/>
 </div>
 
 
