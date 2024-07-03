@@ -1,7 +1,4 @@
-## Hiii i'm CrustKernel, computer science student!
-Time moves in one direction, memory in another.
-
-William Gibson
+## Hiii i'm Junior, computer science student!
     
 <div align="center">
   <a href="https://github.com/CrustKernel">
